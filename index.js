@@ -102,11 +102,13 @@ var hangman = {
                     // If guessed alert the user they won
                     console.log("\n HURRAY!!!! You won the game!");
                         // Ask the user if they want to play again
-                        promptForLetters();
+                        that.promptForLetters();
+
                             //if yes, then startGame
                             //else thank you for playing
 
-                    newWord.returnString();
+                     newWord.returnString();
+                     
 
                     
 
