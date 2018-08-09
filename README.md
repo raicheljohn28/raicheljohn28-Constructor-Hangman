@@ -9,4 +9,4 @@ Run the index.js file from the command line to start the game.
 Enter letters and watch the blanks get filled in.
 
 
-
+![](hangman-demo.png)
